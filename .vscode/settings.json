@@ -1,0 +1,11 @@
+{
+    "search.exclude": {
+        "container": true,
+        "venv": true,
+        "**/.git": true
+    },
+    "files.watcherExclude": {
+        "**/container/**": true,
+        "**/venv/**": true
+    }
+}
